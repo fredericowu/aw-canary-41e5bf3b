@@ -9,3 +9,4 @@ def get_user(conn, name):
 
 def average(values):
     return sum(values) / len(values)
+# touch
