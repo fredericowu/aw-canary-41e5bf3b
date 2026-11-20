@@ -1,3 +1,4 @@
 canary
 a
 b
+c
