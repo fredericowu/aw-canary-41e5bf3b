@@ -9,7 +9,7 @@ concurrency:
   cancel-in-progress: false
 jobs:
   review:
-    uses: fredericowu/aw-shared-workflows/.github/workflows/code-review-reusable.yml@devteam/41e5bf3b-af-exclusive
+    uses: fredericowu/aw-shared-workflows/.github/workflows/code-review-reusable.yml@devteam/41e5bf3b-fix-cycle
     with:
       ci_check_name: "tests"
     permissions:
